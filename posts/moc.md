@@ -7,4 +7,4 @@ this didn't work
 
 Seems a title is needed as a miniimum
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)]
+[!Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)
